@@ -38,5 +38,5 @@ streamlit run 🏠_Home.py
 
 ## Resources 
 - [langchain](https://python.langchain.com/docs/get_started/introduction.html)
-- [Streamlit](https://discuss.streamlit.io/)
+- [Streamlit](https://docs.streamlit.io/)
 

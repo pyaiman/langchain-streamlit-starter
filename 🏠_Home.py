@@ -15,8 +15,8 @@ def main():
     st.write("2. SQL Agent [Doc Link](https://python.langchain.com/docs/modules/agents/toolkits/sql_database)")
     st.markdown("---")
     st.write("## 📚 Resources")
-    st.write("> 📖 [Langchain](https://langchain.readthedocs.io/en/latest/)\n")
-    st.write("> 📖 [Streamlit](https://python.langchain.com/docs/get_started/introduction.html)")
+    st.write("> 📖 [Langchain](https://python.langchain.com/docs/get_started/introduction.html)\n")
+    st.write("> 📖 [Streamlit](https://docs.streamlit.io/)")
 
 if __name__ == "__main__":
     main()
