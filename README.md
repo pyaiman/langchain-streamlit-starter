@@ -40,3 +40,4 @@ streamlit run 🏠_Home.py
 - [langchain](https://python.langchain.com/docs/get_started/introduction.html)
 - [Streamlit](https://docs.streamlit.io/)
 
+# langchain-streamlit-kit
